@@ -165,7 +165,7 @@ kubectl create namespace myns -o yaml --dry-run=client
 >--dry-run=server 的差異？
 
 ```gherkin=
-？？？
+server : 在
 
 ```
 
